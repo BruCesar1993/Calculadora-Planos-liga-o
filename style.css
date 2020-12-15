@@ -43,7 +43,7 @@ body{
     align-items: center;
     max-width: 80%;
     width: auto;
-    height: auto;
+    max-height: 65%;
     width: 400px;
     padding-top: 100px;
     padding-bottom: 100px;
