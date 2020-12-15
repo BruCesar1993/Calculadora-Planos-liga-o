@@ -1,0 +1,108 @@
+
+body{
+    background-color: #c12c2c;
+}
+
+/* resposivo */
+@media(max-width: 800px){
+    
+
+    main{
+       flex-direction: column;
+    }
+
+    .tela2{
+        margin-top: 10px;
+
+    }
+
+    .titulo{
+        margin: 40px;
+        text-align: center;
+    }
+ }
+/*  */
+ .titulo{
+
+   
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    margin-top: 50px;
+    color: white;
+    padding-bottom: 20px;
+
+ }
+
+
+.formulario{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    max-width: 80%;
+    width: auto;
+    height: auto;
+    width: 400px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: solid 1px black;
+    border-radius: 20px;
+    box-shadow: black 0 19px 38px ;
+   
+   
+    
+
+}
+
+main{
+    display: flex;
+}
+
+.tela2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 180px;
+    width: 100%;
+}
+
+.tela1{
+    width: 100%;
+}
+
+
+.enter{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    max-width: 70%;
+}
+
+.botao{
+    background-color: white;
+    border-radius: 5px;
+    width: 100px;
+}
+
+
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    
+   
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    box-shadow: black 0 10px 28px ;
+    border: solid 1px black;
+    border-radius: 20px;
+
+}
