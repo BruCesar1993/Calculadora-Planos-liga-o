@@ -42,10 +42,10 @@ body{
     flex-direction: column;
     align-items: center;
     max-width: 80%;
-    height: 350px;
+    height: 450px;
     width: 400px;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 70px;
+    padding-bottom: 70px;
     margin: 0 auto;
     margin-top: 50px;
     border: solid 1px black;
