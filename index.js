@@ -193,8 +193,6 @@ function de018a011(){
 }}
 
 
-
-
 calcular.addEventListener('click',()=>{
  
         de011a016()
