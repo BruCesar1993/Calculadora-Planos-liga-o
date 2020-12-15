@@ -42,8 +42,7 @@ body{
     flex-direction: column;
     align-items: center;
     max-width: 80%;
-    width: auto;
-    max-height: 50%;
+    height: 300px;
     width: 400px;
     padding-top: 100px;
     padding-bottom: 100px;
